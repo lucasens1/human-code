@@ -1,0 +1,25 @@
+Lista Foto di paesaggi[...]
+Lista Filtri [...]
+Lista Foto inutili [...]
+Var. Foto Instagram
+
+0. Scegliere un’immagine di un paesaggio dalla lista foto
+	
+1. Se la foto non voglio postarla su instagram 
+Inserire la foto nella lista Foto inutili [...]
+Eliminiamo la foto dalla Lista Foto paesaggi[...]
+Tornare al n.0
+
+Altrimenti
+
+	Inseriamo la foto scelta dalla lista in Var. Foto Instagram
+
+	2. Scegliamo un filtro dalla lista Filtri [...]
+	   Se il filtro per la foto migliora la luce e rende vividi i colori 
+	   Postiamo la foto in Var. Foto con il filtro della Lista Filtri giusto
+		
+	Altrimenti
+			
+		Tornare al n.2
+			
+               
